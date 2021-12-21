@@ -7,7 +7,7 @@
     "build": "echo \"No build script setup\""
   },
   "dependencies": {
-    "gatsby": "^3.4.0"
+    "gatsby": "^3.9.1"
   },
   "keywords": [
     "gatsby",
