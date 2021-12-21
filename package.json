@@ -1,0 +1,19 @@
+{
+  "name": "gatsby-plugin-graphql-tester",
+  "version": "0.0.1",
+  "description": "A simple pseudo GraphQL snapshot testing tool for Gatsby plugins",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "dependencies": {
+    "gatsby": "^3.4.0"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "testing"
+  ],
+  "author": "Oliver Tupman <oliver.tupman@dts-workshop.com>",
+  "license": "0BSD"
+}
