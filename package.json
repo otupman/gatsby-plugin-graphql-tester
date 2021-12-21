@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A simple pseudo GraphQL snapshot testing tool for Gatsby plugins",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no tests yet!\" && exit 0",
     "build": "echo \"No build script setup\""
   },
   "dependencies": {
