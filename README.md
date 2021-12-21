@@ -1,4 +1,4 @@
-Gatsby GraphQL Tester Plugin
+Gatsby GraphQL (Snapshot) Tester Plugin
 --------
 
 A simple plugin with the intention of integration-testing source and transform Gatsby plugins, along with any others that might create / modify GraphQL.
